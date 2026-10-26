@@ -1,0 +1,19 @@
+# Build outputs
+bin/
+obj/
+bridge/target/
+publish/
+dist/
+
+# Local machine state and backups
+backup/
+tools/enable-apple-mobile-device-service.ps1
+
+# IDE and OS files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+Thumbs.db
+.DS_Store
